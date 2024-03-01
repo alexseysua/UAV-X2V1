@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JSBSim_SFunction", "MatlabVS\MatlabVS.vcproj", "{798C755F-309A-403D-B0CD-5D2583A81DDD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JSBSimLib", "JSBSim\JSBSim.vcproj", "{AF971B4F-3D53-4655-8A03-97E8054DC58B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JSBSim", "JSBSim\JSBSimLib.vcproj", "{CDC5CE55-E726-4843-B81C-CBD47409F600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798C755F-309A-403D-B0CD-5D2583A81DDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{798C755F-309A-403D-B0CD-5D2583A81DDD}.Debug|Win32.Build.0 = Debug|Win32
+		{798C755F-309A-403D-B0CD-5D2583A81DDD}.Release|Win32.ActiveCfg = Release|Win32
+		{798C755F-309A-403D-B0CD-5D2583A81DDD}.Release|Win32.Build.0 = Release|Win32
+		{AF971B4F-3D53-4655-8A03-97E8054DC58B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF971B4F-3D53-4655-8A03-97E8054DC58B}.Release|Win32.ActiveCfg = Release|Win32
+		{AF971B4F-3D53-4655-8A03-97E8054DC58B}.Release|Win32.Build.0 = Release|Win32
+		{CDC5CE55-E726-4843-B81C-CBD47409F600}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDC5CE55-E726-4843-B81C-CBD47409F600}.Debug|Win32.Build.0 = Debug|Win32
+		{CDC5CE55-E726-4843-B81C-CBD47409F600}.Release|Win32.ActiveCfg = Release|Win32
+		{CDC5CE55-E726-4843-B81C-CBD47409F600}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
