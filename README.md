@@ -1,1 +1,1 @@
-UAV (X1V1) is one of my personal project.
+UAV (X1V1) is open source aerial unmanned vehicle personal project.
